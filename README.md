@@ -4,7 +4,7 @@
  
  Also the players have a limit of three play and will keep playing until someone losses (either the program or player)
  
- <p align="center"><img src="screenshot/gameScreen.png" alt="login" width="400"></p> 
+ <p align="center"><img src="screenshot/gameScreen.png" alt="tictactoe" width="400"></p> 
  
 
  
